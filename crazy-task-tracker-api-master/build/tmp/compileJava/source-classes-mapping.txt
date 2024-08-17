@@ -1,0 +1,52 @@
+may/code/crazy/task/tracker/api/exceptions/CustomExceptionHandler.java
+ may.code.crazy.task.tracker.api.exceptions.CustomExceptionHandler
+may/code/crazy/task/tracker/api/factories/ProjectDtoFactory.java
+ may.code.crazy.task.tracker.api.factories.ProjectDtoFactory
+may/code/crazy/task/tracker/api/exceptions/NotFoundException.java
+ may.code.crazy.task.tracker.api.exceptions.NotFoundException
+may/code/crazy/task/tracker/api/factories/TaskDtoFactory.java
+ may.code.crazy.task.tracker.api.factories.TaskDtoFactory
+may/code/crazy/task/tracker/store/repositories/TaskStateRepository.java
+ may.code.crazy.task.tracker.store.repositories.TaskStateRepository
+may/code/crazy/task/tracker/api/exceptions/BadRequestException.java
+ may.code.crazy.task.tracker.api.exceptions.BadRequestException
+may/code/crazy/task/tracker/api/controllers/TaskStateController.java
+ may.code.crazy.task.tracker.api.controllers.TaskStateController
+may/code/crazy/task/tracker/store/entities/ProjectEntity.java
+ may.code.crazy.task.tracker.store.entities.ProjectEntity
+ may.code.crazy.task.tracker.store.entities.ProjectEntity$ProjectEntityBuilder
+may/code/crazy/task/tracker/api/factories/TaskStateDtoFactory.java
+ may.code.crazy.task.tracker.api.factories.TaskStateDtoFactory
+may/code/crazy/task/tracker/api/dto/ProjectDto.java
+ may.code.crazy.task.tracker.api.dto.ProjectDto
+ may.code.crazy.task.tracker.api.dto.ProjectDto$ProjectDtoBuilder
+may/code/crazy/task/tracker/store/repositories/ProjectRepository.java
+ may.code.crazy.task.tracker.store.repositories.ProjectRepository
+may/code/crazy/task/tracker/api/controllers/ProjectController.java
+ may.code.crazy.task.tracker.api.controllers.ProjectController
+may/code/crazy/task/tracker/api/dto/TaskStateDto.java
+ may.code.crazy.task.tracker.api.dto.TaskStateDto
+ may.code.crazy.task.tracker.api.dto.TaskStateDto$TaskStateDtoBuilder
+may/code/crazy/task/tracker/store/repositories/TaskRepository.java
+ may.code.crazy.task.tracker.store.repositories.TaskRepository
+may/code/crazy/task/tracker/api/controllers/helpers/ControllerHelper.java
+ may.code.crazy.task.tracker.api.controllers.helpers.ControllerHelper
+may/code/crazy/task/tracker/api/exceptions/CustomErrorController.java
+ may.code.crazy.task.tracker.api.exceptions.CustomErrorController
+may/code/crazy/task/tracker/store/entities/TaskStateEntity.java
+ may.code.crazy.task.tracker.store.entities.TaskStateEntity
+ may.code.crazy.task.tracker.store.entities.TaskStateEntity$TaskStateEntityBuilder
+may/code/crazy/task/tracker/api/dto/AckDto.java
+ may.code.crazy.task.tracker.api.dto.AckDto
+ may.code.crazy.task.tracker.api.dto.AckDto$AckDtoBuilder
+may/code/crazy/task/tracker/api/exceptions/ErrorDto.java
+ may.code.crazy.task.tracker.api.exceptions.ErrorDto
+ may.code.crazy.task.tracker.api.exceptions.ErrorDto$ErrorDtoBuilder
+may/code/crazy/task/tracker/Application.java
+ may.code.crazy.task.tracker.Application
+may/code/crazy/task/tracker/store/entities/TaskEntity.java
+ may.code.crazy.task.tracker.store.entities.TaskEntity
+ may.code.crazy.task.tracker.store.entities.TaskEntity$TaskEntityBuilder
+may/code/crazy/task/tracker/api/dto/TaskDto.java
+ may.code.crazy.task.tracker.api.dto.TaskDto
+ may.code.crazy.task.tracker.api.dto.TaskDto$TaskDtoBuilder
